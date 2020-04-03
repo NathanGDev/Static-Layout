@@ -1,0 +1,18 @@
+nav { 
+    display: flex;
+    background-color: black;
+    color: white;
+}
+ul, li {
+    text-decoration: none;
+    float: right;
+    display: inline;
+    
+}
+.bigNav {
+    float: left;
+}
+
+.lilNav {
+    float: right;
+}
